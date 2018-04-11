@@ -1,0 +1,125 @@
+{
+    "music" : 
+    [
+        {
+            "title": "Hello Radio 90.8",
+            "album": "live",
+            "artist": "Kidney federation of India",
+            "genre": "Malayalam",
+            "source": "http://132.148.128.197:8000/helloradio.ogg",
+            "image": "album_art_3.jpg",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://132.148.128.197:8000/"
+        },
+        {
+            "title": "Radio City K J Yesudas Hits",
+            "album": "live",
+            "artist": "Radio City",
+            "genre": "Malayalam",
+            "source": "http://prclive1.listenon.in:8824/;",
+            "image": "radio_city.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://www.radiocity.in/"
+        },
+        {
+            "title": "Theeram Radio",
+            "album": "live",
+            "artist": "Theeram",
+            "genre": "Malayalam",
+            "source": "http://titan.shoutca.st:8647/stream",
+            "image": "theeramradio.jpg",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://radiosindia.com/theeramradio.html"
+        },
+        {
+            "title": "Radio City International",
+            "album": "live",
+            "artist": "International",
+            "genre": "English",
+            "source": "http://prclive1.listenon.in:9918/;",
+            "image": "radio_city.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://www.radiocity.in/"
+        },
+        {
+            "title": "Radio City Rock",
+            "album": "live",
+            "artist": "Rock",
+            "genre": "English",
+            "source": "http://prclive1.listenon.in:8850/;",
+            "image": "radio_city.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://www.radiocity.in/"
+        },
+        {
+            "title": "Radio City Tamil",
+            "album": "live",
+            "artist": "Tamil",
+            "genre": "Tamil",
+            "source": "http://prclive1.listenon.in:9948/;",
+            "image": "radio_city.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://www.radiocity.in/"
+        },
+        {
+            "title": "Radio City Bollywood",
+            "album": "live",
+            "artist": "Hindi",
+            "genre": "Hindi",
+            "source": "http://prclive1.listenon.in:9928/;",
+            "image": "radio_city.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://www.radiocity.in/"
+        },
+        {
+            "title": "Radio Delhi Malayalam",
+            "album": "live",
+            "artist": "Malayalam",
+            "genre": "Malayalam",
+            "source": "http://hyades.shoutca.st:8667/;",
+            "image": "radio.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://radio.delhimalayalam.com/"
+        },
+        {
+            "title": "Radio City 101.6 Dubai Hindi",
+            "album": "live",
+            "artist": "Hindi",
+            "genre": "Hindi",
+            "source": "http://19393.live.streamtheworld.com/ARNCITYAAC.aac",
+            "image": "city-1016.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://city1016.ae/"
+        },
+        {
+            "title": "WHTZ-FM - Z100",
+            "album": "live",
+            "artist": "International",
+            "genre": "English",
+            "source": "http://c5icyelb.prod.playlists.ihrhls.com/1469_icy",
+            "image": "whtz.png",
+            "trackNumber": 1,
+            "totalTrackCount": 1,
+            "duration": 9999,
+            "site": "http://whtzfm.radio.net/"
+        }
+    ]
+}

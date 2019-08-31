@@ -289,6 +289,11 @@ public class MusicProvider {
     public List<MediaBrowserCompat.MediaItem> getChildren(String mediaId, Resources resources) {
         List<MediaBrowserCompat.MediaItem> mediaItems = new ArrayList<>();
 
+        if (mediaId.equals(MEDIA_ID_ROOT)) {
+            // removing root ui
+            mediaId = MEDIA_ID_MUSICS_BY_GENRE;
+        }
+
         if (!MediaIDHelper.isBrowseable(mediaId)) {
             return mediaItems;
         }

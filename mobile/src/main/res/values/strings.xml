@@ -16,7 +16,7 @@
   -->
 <resources>
 
-    <string name="app_name">Radio Player</string>
+    <string name="app_name">Radio Killer</string>
     <string name="favorite">Favorite</string>
     <string name="error_no_metadata">Unable to retrieve metadata.</string>
     <string name="browse_genres">Regional</string>

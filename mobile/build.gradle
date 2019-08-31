@@ -19,7 +19,7 @@ android {
     compileSdkVersion 26
 
     defaultConfig {
-        applicationId "com.vilvan.android.radioplayer"
+        applicationId "com.vilvan.android.radiokiller"
         minSdkVersion 17
         targetSdkVersion 26
         versionCode 3

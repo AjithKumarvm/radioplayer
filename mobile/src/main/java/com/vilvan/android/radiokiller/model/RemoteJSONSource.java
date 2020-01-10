@@ -40,7 +40,7 @@ public class RemoteJSONSource implements MusicProviderSource {
 
     private static final String TAG = LogHelper.makeLogTag(RemoteJSONSource.class);
 
-    protected static final String CATALOG_URL = "https://firebasestorage.googleapis.com/v0/b/radio-streamer-6111f.appspot.com/o/playlist.json?alt=media";
+    protected static final String CATALOG_URL = "https://ajithkumarvm.github.io/radiokiller/playlist.json";
 
     private static final String JSON_MUSIC = "music";
     private static final String JSON_TITLE = "title";

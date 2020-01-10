@@ -24,10 +24,10 @@
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
-        android:layout_height="match_parent"
         android:layout_width="match_parent"
-        android:background="?attr/colorPrimary"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        app:layout_scrollFlags="scroll|enterAlways"/>
+        android:layout_height="match_parent"
+        android:background="#BA11C4"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
 </android.support.design.widget.AppBarLayout>
